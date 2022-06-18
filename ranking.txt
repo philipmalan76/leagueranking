@@ -1,0 +1,9 @@
+Lions 3, Snakes 3
+Bulls 3, Stormers 1
+Tarantulas 1, FC Awesome 0
+Lions 1, FC Awesome 1
+Tarantulas 3, Snakes 1
+Lions 4, Grouches 1
+Lions 0, Snakes 4
+Stormers 3, Bulls 1
+Grouches 1, Bulls 4
