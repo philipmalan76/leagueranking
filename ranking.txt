@@ -6,4 +6,4 @@ Tarantulas 3, Snakes 1
 Lions 4, Grouches 1
 Lions 0, Snakes 4
 Stormers 3, Bulls 1
-Grouches 1, Bulls 4
+Grouches 1, Bulls 0
